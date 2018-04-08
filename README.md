@@ -1,2 +1,2 @@
 # Practice
-Mukul &amp; Garima Code practice
+Mukul Code practice
